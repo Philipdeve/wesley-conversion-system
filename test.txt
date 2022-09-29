@@ -1,0 +1,9 @@
+CSC211 - Structured Programming (C/C++)
+CSC212 - Computer Programming II (PYTHON)
+CSC215 - Operating Systems I 
+CSC217 - Discrete Structures I 
+MAT211 - Mathematical Methods I
+ENT211 - Introduction to Entrepreneurship
+GNS212 - Nigerian People and Culture
+CSC111 - Introduction to Computing Concepts 
+CSC216 - Digital Computer Logic
